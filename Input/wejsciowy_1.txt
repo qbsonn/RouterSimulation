@@ -1,0 +1,31 @@
+# plik dla routera
+
+SYSTEM = ROUTER
+# przeplywnosc lacza wyjsciowego C w bit/s
+PRZEPLYWNOSC = 10000000
+# K kolejek w kolejnosci malejacych priorytetow, BUFOR - wielkosc bufora w bajtach B_k
+KOLEJKI = 4
+NAZWA = KOL1 BUFOR = 10000
+NAZWA = KOL2 BUFOR = 10000
+NAZWA = KOL3 BUFOR = 10000
+NAZWA = KOL4 BUFOR = 10000
+
+# rozklady prawdopodobienstwa
+# w przypadku czasu na osi x mamy ms, w przypadku dlugosci pakietow na osi x mamy bajty
+# LAMBDA to odwrotnosc wartosci sredniej rozkladu
+ROZKLADY = 4
+NAZWA = WYK1
+LAMBDA = 0,002
+NAZWA = WYK2
+LAMBDA = 2,475
+NAZWA = WYK3
+LAMBDA = 0,02
+NAZWA = WYK4
+LAMBDA = 0,5
+
+# N strumieni pakietow
+STRUMIENIE = 4
+NAZWA = MOJ KOLEJKA = KOL1 CZAS = WYK1 WIELKOSC = WYK2
+NAZWA = GL1 KOLEJKA = KOL2 CZAS = WYK3 WIELKOSC = WYK2
+NAZWA = W1 KOLEJKA = KOL3 CZAS = WYK4 WIELKOSC = WYK1
+NAZWA = VID1 KOLEJKA = KOL4 CZAS = WYK2 WIELKOSC = WYK1

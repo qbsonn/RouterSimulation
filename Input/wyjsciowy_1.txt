@@ -1,0 +1,50 @@
+Nazwa systemy to: ROUTER
+
+Czas trwania symulacji : 60000 ms
+Przepustowosc w bajtach  : 1250000
+
+Prawdopodobieństwo odrzucenia pakietu ze strumienia MOJ wynosi: 0%
+Srednia wielkosc pakietu ze strumienia: MOJ wynosi: 0,436193358091452bajt
+Sredni odstep miedzy pakietami ze strumienia MOJ wynosi: 508,698214012685ms
+Nadane pakiety ze strumienia MOJ wynosi: 118
+
+Prawdopodobieństwo odrzucenia pakietu ze strumienia GL1 wynosi: 0%
+Srednia wielkosc pakietu ze strumienia: GL1 wynosi: 0,421552472054978bajt
+Sredni odstep miedzy pakietami ze strumienia GL1 wynosi: 51,6409334351135ms
+Nadane pakiety ze strumienia GL1 wynosi: 1162
+
+Prawdopodobieństwo odrzucenia pakietu ze strumienia W1 wynosi: 0%
+Srednia wielkosc pakietu ze strumienia: W1 wynosi: 494,662110266704bajt
+Sredni odstep miedzy pakietami ze strumienia W1 wynosi: 1,9896102253612ms
+Nadane pakiety ze strumienia W1 wynosi: 30157
+
+Prawdopodobieństwo odrzucenia pakietu ze strumienia VID1 wynosi: 12%
+Srednia wielkosc pakietu ze strumienia: VID1 wynosi: 499,648216586864bajt
+Sredni odstep miedzy pakietami ze strumienia VID1 wynosi: 0,402588274648035ms
+Nadane pakiety ze strumienia VID1 wynosi: 149037
+
+
+Sredni czas obslugi w kolejece: KOL1 wynosi: 0,408481165908103 ms
+Sredni ilosc pakietow w kolejce KOL1 wynosi: 0,000777302759424796
+Sredni zajetosc Kolejki KOL1 wynosi: 7,77302759424796E-06 %
+Licza pakietow wyslanych do transmisji z kolejki  KOL1 wynosi: 118
+
+Sredni czas obslugi w kolejece: KOL2 wynosi: 0,393208802321872 ms
+Sredni ilosc pakietow w kolejce KOL2 wynosi: 0,00779713000539291
+Sredni zajetosc Kolejki KOL2 wynosi: 7,79713000539291E-05 %
+Licza pakietow wyslanych do transmisji z kolejki  KOL2 wynosi: 1162
+
+Sredni czas obslugi w kolejece: KOL3 wynosi: 0,89409596610174 ms
+Sredni ilosc pakietow w kolejce KOL3 wynosi: 0,252650512025597
+Sredni zajetosc Kolejki KOL3 wynosi: 0,00252650512025597 %
+Licza pakietow wyslanych do transmisji z kolejki  KOL3 wynosi: 30157
+
+Sredni czas obslugi w kolejece: KOL4 wynosi: 3904,3040243781 ms
+Sredni ilosc pakietow w kolejce KOL4 wynosi: 8212,36086129966
+Sredni zajetosc Kolejki KOL4 wynosi: 82,1236086129966 %
+Licza pakietow wyslanych do transmisji z kolejki  KOL4 wynosi: 120011
+
+
+Sredni czas wysylania: 0,396163058226249 ms
+Zajetosc lacza: 99,9961777986512 %
+Pakiety ktorych transmisja zakonczyla sie 151447

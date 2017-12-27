@@ -1,0 +1,27 @@
+C:\Users\Kuba\Desktop\Symulacjaaa\Router\Router\bin\Debug\Router.exe.config
+C:\Users\Kuba\Desktop\Symulacjaaa\Router\Router\obj\Debug\Router.csprojResolveAssemblyReference.cache
+C:\Users\Kuba\Desktop\Symulacjaaa\Router\Router\bin\Debug\Router.exe
+C:\Users\Kuba\Desktop\Symulacjaaa\Router\Router\bin\Debug\Router.pdb
+C:\Users\Kuba\Desktop\Symulacjaaa\Router\Router\obj\Debug\Router.exe
+C:\Users\Kuba\Desktop\Symulacjaaa\Router\Router\obj\Debug\Router.pdb
+C:\Users\VAIO\Desktop\Projekt 1\Symulacjaaa\Router\Router\bin\Debug\Router.exe.config
+C:\Users\VAIO\Desktop\Projekt 1\Symulacjaaa\Router\Router\obj\Debug\Router.exe
+C:\Users\VAIO\Desktop\Projekt 1\Symulacjaaa\Router\Router\obj\Debug\Router.pdb
+C:\Users\VAIO\Desktop\Projekt 1\Symulacjaaa\Router\Router\bin\Debug\Router.exe
+C:\Users\VAIO\Desktop\Projekt 1\Symulacjaaa\Router\Router\bin\Debug\Router.pdb
+C:\Users\VAIO\Desktop\Projekt 1\Symulacjaaa\Router\Router\obj\Debug\Router.csprojResolveAssemblyReference.cache
+C:\Users\Kuba\Desktop\Projekt 1\Symulacjaaa\Router\Router\bin\Debug\Router.exe.config
+C:\Users\Kuba\Desktop\Projekt 1\Symulacjaaa\Router\Router\obj\Debug\Router.exe
+C:\Users\Kuba\Desktop\Projekt 1\Symulacjaaa\Router\Router\obj\Debug\Router.pdb
+C:\Users\Kuba\Desktop\Projekt 1\Symulacjaaa\Router\Router\bin\Debug\Router.exe
+C:\Users\Kuba\Desktop\Projekt 1\Symulacjaaa\Router\Router\bin\Debug\Router.pdb
+C:\Users\Kuba\Desktop\Projekt 1\Symulacjaaa\Router\Router\obj\Debug\Router.csprojResolveAssemblyReference.cache
+C:\Users\Kuba\Desktop\Projekt 1_final\Symulacjaaa\Router\Router\bin\Debug\Router.exe.config
+C:\Users\Kuba\Desktop\Projekt 1_final\Symulacjaaa\Router\Router\obj\Debug\Router.exe
+C:\Users\Kuba\Desktop\Projekt 1_final\Symulacjaaa\Router\Router\obj\Debug\Router.pdb
+C:\Users\Kuba\Desktop\Projekt 1_final\Symulacjaaa\Router\Router\bin\Debug\Router.exe
+C:\Users\Kuba\Desktop\Projekt 1_final\Symulacjaaa\Router\Router\bin\Debug\Router.pdb
+C:\Users\Kuba\Desktop\Projekt 1_final\Symulacjaaa\Router\Router\obj\Debug\Router.csprojResolveAssemblyReference.cache
+C:\Users\Kuba\Desktop\Nowy folder\Projekt 1_final\Symulacjaaa\Router\Router\bin\Debug\Router.exe.config
+C:\Users\Kuba\Desktop\Nowy folder\Projekt 1_final\Symulacjaaa\Router\Router\obj\Debug\Router.exe
+C:\Users\Kuba\Desktop\Nowy folder\Projekt 1_final\Symulacjaaa\Router\Router\obj\Debug\Router.pdb

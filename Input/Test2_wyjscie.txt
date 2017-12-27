@@ -1,0 +1,30 @@
+Nazwa systemy to: ROUTER
+
+Czas trwania symulacji : 1020000 ms
+Przepustowosc w bajtach  : 1250000
+
+Prawdopodobieństwo odrzucenia pakietu ze strumienia MOJ wynosi: 0%
+Srednia wielkosc pakietu ze strumienia: MOJ wynosi: 499,761290261865bajt
+Sredni odstep miedzy pakietami ze strumienia MOJ wynosi: 0,403987264918095ms
+Nadane pakiety ze strumienia MOJ wynosi: 2524833
+
+Prawdopodobieństwo odrzucenia pakietu ze strumienia MOJ wynosi: 98%
+Srednia wielkosc pakietu ze strumienia: MOJ wynosi: 499,967440414531bajt
+Sredni odstep miedzy pakietami ze strumienia MOJ wynosi: 0,404364617099213ms
+Nadane pakiety ze strumienia MOJ wynosi: 2522477
+
+
+Sredni czas obslugi w kolejece: KOL1 wynosi: 36,3598835046615 ms
+Sredni ilosc pakietow w kolejce KOL1 wynosi: 89,0510470468663
+Sredni zajetosc Kolejki KOL1 wynosi: 0,890510470468663 %
+Licza pakietow wyslanych do transmisji z kolejki  KOL1 wynosi: 2524756
+
+Sredni czas obslugi w kolejece: KOL2 wynosi: 299598,553998321 ms
+Sredni ilosc pakietow w kolejce KOL2 wynosi: 9980,14347640642
+Sredni zajetosc Kolejki KOL2 wynosi: 99,8014347640642 %
+Licza pakietow wyslanych do transmisji z kolejki  KOL2 wynosi: 26594
+
+
+Sredni czas wysylania: 0,399787843382352 ms
+Zajetosc lacza: 99,9998347476197 %
+Pakiety ktorych transmisja zakonczyla sie 2551349
